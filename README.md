@@ -24,7 +24,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.python.org/" target="_blank" id="githubLink">
+  <a href="https://www.python.org/" target="_blank" style="text-decoration: none; display: inline-block;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
   </a>

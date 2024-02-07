@@ -5,9 +5,10 @@
 ###    
  
 <div align="center"> 
-  <a href="mailto:jaswinmohan@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="ConnectWith@laxmena.com"></a>
-  <a href="https://www.linkedin.com/in/jaswin-m-1ab9a8237" target="_blank" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:jaswinmohan@gmail.com" onclick="window.open(this.href,'_blank');return false;"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="ConnectWith@laxmena.com"></a>
+  <a href="https://www.linkedin.com/in/jaswin-m-1ab9a8237" onclick="window.open(this.href,'_blank');return false;" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
 </div>
+
 
 
 ###

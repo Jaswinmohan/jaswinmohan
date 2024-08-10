@@ -9,9 +9,7 @@
 
 
 
-Here's a template for your GitHub profile, focusing on your software engineering skills:
 
----
 
 ### 👩‍💻 About Me
 

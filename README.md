@@ -9,17 +9,26 @@
 
 
 
+Here's a template for your GitHub profile, focusing on your software engineering skills:
+
+---
+
+### 👩‍💻 About Me
+
+<p align="center">🔭 Software Engineer specializing in Java, Python, and data structures.<br>📚 Continuously enhancing problem-solving skills with a focus on algorithmic challenges.<br>⚡ Passionate about creating efficient, scalable software solutions.</p>
+
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+### 🛠 Languages and Tools
 
-###
+- **Programming Languages**: Java, Python
+- **Tools**: Git, Eclipse, IntelliJ IDEA, MySQL, JUnit
+- **Areas of Expertise**: Data Structures, Algorithms, Software Design Patterns
+- **Technologies**: Machine Learning, Data Analysis
 
-<p align="center">🔭 Data Scientist specializing in analytics, Python, and machine learning.<br>📚 Constantly learning and staying updated.<br>⚡ Enjoy exploring new Python applications in free time.</p>
+---
 
-###
-
-<h3 align="left">🛠 Language and tools</h3>
+Feel free to customize it further as needed!
 
 #####
 

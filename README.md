@@ -24,9 +24,6 @@
 - **Areas of Expertise**: Data Structures, Algorithms, Software Design Patterns
 - **Technologies**: Machine Learning, Data Analysis
 
----
-
-Feel free to customize it further as needed!
 
 #####
 
